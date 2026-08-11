@@ -111,8 +111,8 @@ This project was built to run on **Google Colab** with data stored on Google Dri
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ashgpt.git
-cd ashgpt
+git clone https://github.com/ashwin-naik18/ashgpt.git
+cd AshGPT-llm
 ```
 
 ### 2. Install dependencies
