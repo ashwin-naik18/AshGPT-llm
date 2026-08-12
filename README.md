@@ -160,6 +160,6 @@ print(generate("Once upon a time", max_token=100, temparature=0.8, top_k=50))
 
 ## Repository Info
 
-**Name:** `ashgpt`
+**Name:** `AshGPT`
 
 **Description:** AshGPT — a GPT-style language model built from scratch in PyTorch, with BPE tokenization, a properly regularized and normalized transformer architecture, async data prefetching, mixed-precision training, and controllable text generation.
